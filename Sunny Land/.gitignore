@@ -2,8 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+
 # Ignore everything in the root directory
-/*
 
 # Except for these files and folders
 !/Assets/
